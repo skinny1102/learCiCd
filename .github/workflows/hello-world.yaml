@@ -6,4 +6,4 @@ jobs:
   say-hello:
     runs-on: unbuntu-latest
     steps: 
-      - run: eco HELLO WORLD
+      - run: echo HELLO WORLD
